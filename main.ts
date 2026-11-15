@@ -2,6 +2,8 @@
 // about agency, to /output/entry.txt. The poem is written in the voice of the agent that acts: the
 // human keeps the choosing, the agent takes the doing, and the poem turns on the hundred small
 // decisions no instruction ever names — agency as the current between the hand and the voice.
+// Three stanzas: the arrangement, the turn (no instruction ever says it all), and the landing
+// (trust sent ahead, care sent back).
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
